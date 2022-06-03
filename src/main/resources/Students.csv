@@ -1,0 +1,51 @@
+ID,NAME,AGE(Months),Grade,RegistrationDate,ParentName,Address, phone, parentEmail
+101,Mohit,60,2,1/10/2021,Sanghai,Mumbai,1234567890,sanghai.m@northeastern.edu
+102,David,36,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,bipinchowdary96@gmail.com
+103,John,25,2,1/10/2021,Chand,Gardens-Guntur,1234567890,kollayashwanth.nani.18@gmail.com
+104,David,65,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,kurhekar.t@northeastern.edu
+105,John,55,2,1/10/2021,Chand,Gardens-Guntur,1234567890,mulik.a@northeastern.edu
+106,Sasank,61,3,12/12/2021,Chunduri,Hyderabad,7894561132,chunduri.s@northeastern.edu
+107,Sai,29,3,12/12/2021,Chand,Vizag,4567891230,chandsai161@gmail.com
+108,Mohit,41,2,1/10/2021,Sanghai,Mumbai,1234567890,sanghai.m@northeastern.edu
+109,David,30,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,bipinchowdary96@gmail.com
+110,John,45,2,1/10/2021,Chand,Gardens-Guntur,1234567890,kollayashwanth.nani.18@gmail.com
+111,David,90,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,kurhekar.t@northeastern.edu
+112,John,100,2,1/10/2021,Chand,Gardens-Guntur,1234567890,mulik.a@northeastern.edu
+113,Sasank,11,3,12/12/2021,Chunduri,Hyderabad,7894561132,chunduri.s@northeastern.edu
+114,Sai,29,4,12/12/2021,Chand,Vizag,4567891230,chandsai161@gmail.com
+115,Mohit,10,2,1/10/2021,Sanghai,Mumbai,1234567890,sanghai.m@northeastern.edu
+116,David,12,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,bipinchowdary96@gmail.com
+117,John,21,2,1/10/2021,Chand,Gardens-Guntur,1234567890,kollayashwanth.nani.18@gmail.com
+118,David,9,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,kurhekar.t@northeastern.edu
+119,John,8,2,1/10/2021,Chand,Gardens-Guntur,1234567890,mulik.a@northeastern.edu
+120,Sasank,6,3,12/12/2021,Chunduri,Hyderabad,7894561132,chunduri.s@northeastern.edu
+121,Sai,7,3,12/12/2021,Chand,Vizag,4567891230,chandsai161@gmail.com
+122,Mohit,10,2,1/10/2021,Sanghai,Mumbai,1234567890,sanghai.m@northeastern.edu
+123,David,12,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,bipinchowdary96@gmail.com
+124,kumari,21,2,1/10/2021,Chand,Gardens-Guntur,1234567890,kollayashwanth.nani.18@gmail.com
+125,David,65,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,kurhekar.t@northeastern.edu
+126,John,55,2,1/10/2021,Chand,Gardens-Guntur,1234567890,mulik.a@northeastern.edu
+127,Sasank,6,3,12/12/2021,Chunduri,Hyderabad,7894561132,chunduri.s@northeastern.edu
+128,Sai,9,3,12/12/2021,Chand,Vizag,4567891230,chandsai161@gmail.com
+129,Mohit,10,2,1/10/2021,Sanghai,Mumbai,1234567890,sanghai.m@northeastern.edu
+130,David,36,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,bipinchowdary96@gmail.com
+131,John,23,2,1/10/2021,Chand,Gardens-Guntur,1234567890,kollayashwanth.nani.18@gmail.com
+132,David,65,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,kurhekar.t@northeastern.edu
+133,John,55,2,1/10/2021,Chand,Gardens-Guntur,1234567890,mulik.a@northeastern.edu
+134,Sasank,61,3,12/12/2021,Chunduri,Hyderabad,7894561132,chunduri.s@northeastern.edu
+135,Sai,22,2,12/12/2021,Chand,Vizag,4567891230,chandsai161@gmail.com
+136,John,25,2,1/10/2021,Chand,Gardens-Guntur,1234567890,kollayashwanth.nani.18@gmail.com
+137,David,85,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,kurhekar.t@northeastern.edu
+138,John,55,2,1/10/2021,Chand,Gardens-Guntur,1234567890,mulik.a@northeastern.edu
+139,Sasank,61,3,12/12/2021,Chunduri,Hyderabad,7894561132,chunduri.s@northeastern.edu
+140,Sai,29,5,12/12/2021,Chand,Vizag,4567891230,chandsai161@gmail.com
+141,John,23,2,1/10/2021,Chand,Gardens-Guntur,1234567890,kollayashwanth.nani.18@gmail.com
+142,David,30,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,bipinchowdary96@gmail.com
+143,John,25,2,1/10/2021,Chand,Gardens-Guntur,1234567890,kollayashwanth.nani.18@gmail.com
+144,David,65,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,kurhekar.t@northeastern.edu
+145,John,23,2,1/10/2021,Chand,Gardens-Guntur,1234567890,mulik.a@northeastern.edu
+146,Sasank,40,3,12/12/2021,Chunduri,Hyderabad,7894561132,chunduri.s@northeastern.edu
+147,Sai,39,1,12/12/2021,Chand,Vizag,4567891230,chandsai161@gmail.com
+148,Mohit,30,2,1/10/2021,Sanghai,Mumbai,1234567890,sanghai.m@northeastern.edu
+149,David,23,3,1/9/2021,Warner,MG Road-Vijayawada,9999999999,bipinchowdary96@gmail.com
+150,John,25,2,1/10/2021,Chand,Gardens-Guntur,1234567890,kollayashwanth.nani.18@gmail.com

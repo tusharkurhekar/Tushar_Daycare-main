@@ -21,10 +21,10 @@ The code can be run from intellij too, but to be able to edit UI, use Netbeans
 
 ## Team Members 
 
+- Tushar Kurhekar - kurhekar.t@northeastern.edu -
 - Bipin Mandava - mandava.b@northeastern.edu - 
 - Yashwanth Kolla - kolla.y@northeastern.edu - 
 - Sai Chand Ghanta - ghanta.sa@northeastern.edu -
-- Tushar Kurhekar - kurhekar.t@northeastern.edu -
 - Sasank Chunduri - chunduri.s@northeastern.edu -
 - Mohit Sanghai - sanghai.m@northeastern.edu - 
-- Aditya Mulik - mulik.a@northeastern.edu - 002127694
+- Aditya Mulik - mulik.a@northeastern.edu - 
